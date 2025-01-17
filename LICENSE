@@ -1,0 +1,84 @@
+# RORY'S "THIS IS MINE!" LICENSE
+
+> Version 1.1, January 2025
+> Copyright (C) 2025 therealrory
+
+This license allows the use, modification, and distribution of this project created by therealrory ("The Author") on GitHub. By using any part of this repository, you agree to the terms outlined below:
+
+0. Definitions
+
+    "The Author" or "I" refers to therealrory (real identity not disclosed).
+    "Forker" refers to any person who forks or copies the repository, or modifies any part of the original source code and redistributes it, with or without modifications.
+    "Repository" refers to the GitHub repository of the project.
+    "Modification(s)" refers to changes, additions, deletions, or any adaptations made to the codebase.
+    "Code" refers to all original source code, as well as any derivative works, including software libraries, tools, or documentation included within the repository.
+    By "Commercial", I mean any monetary revenue in exchange for the software, through purchases or ads.
+
+
+1. Attribution
+
+    All files originating from this repository must credit The Author. Credits must appear in:
+    > A Credits.txt file with the authors name (therealrory) and a link to their GitHub page (https://github.com/therealrory).
+    > A comment at the start and end of each original file, stating: "therealrory on GitHub".
+    Forked or modified files with significantly different purposes (not based on original code) belong to the Forker and do not require this attribution.
+
+
+2. Permission for Use
+
+    You may fork or copy this repository for personal use. Modifications are allowed.
+    The original license and credits must remain included with all copies and forks.
+
+
+3. Commercial Use
+
+    Commercial use of the original code or files is NOT allowed.
+    Specific parts of the code may be used commercially:
+    > Individual functions (that are not the main function) or code snippets, up to 50 lines if not in a function.
+    When any part is used:
+    > For open-source projects: Include attribution with "therealrory on GitHub."
+    > For proprietary projects: Attribution must appear visibly in credits or public documentation.
+    Exceptions for commercial use can be granted directly by The Author via confirmation (e.g., Discord (thereal.rory) or Github (therealrory)).
+
+
+4. License Compatibility
+
+    Other licenses may be applied to your fork as long as they do not conflict with this license.
+    This license shall take precedence in case of contradictions.
+
+
+5. Restrictions
+
+    > The code or its parts must not be used to train AI models of any kind AT ALL.
+    > The project must not be used for creating NSFW (Pornography, Gore or any other inappropriate media) content.
+    > Redistribution or public repositories of modified versions may be removed at The Author's request.
+    > The source code must not be changed to include malicious content.
+    > You may not copy and rename this license for use elsewhere.
+
+
+6. Liability Disclaimer
+
+    No warranty is provided. Use this project at your own risk. The Author is not responsible for any issues, damages, or malfunctions.
+
+
+7. Modifications to the License
+
+    The Author reserves the right to update this license.
+    Copies or forks made before such updates are not required to comply with the new terms, though compliance is encouraged.
+
+
+8. Goodwill Clause
+
+    If you earn significant revenue from modified versions of this project, consider sharing with The Author. This is only a suggestion tho
+
+
+9. Penalties
+
+    If you do not comply with this license, the following actions may occur, depending on the severity of the violation:
+    > I will ask you nicely to take it down
+    > I will send takedown requests if you do not comply.
+
+
+10. Expiration
+
+    This license expires on December 29, 2108.
+    After the expiration, the project will enter Public Domain.
